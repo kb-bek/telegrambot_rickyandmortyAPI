@@ -6,7 +6,7 @@ morty = InlineKeyboardButton(text='👦Morty Smith', callback_data='Morty Smith'
 summer = InlineKeyboardButton(text='👩🏻‍🦰Summer Smith', callback_data='Summer Smith')
 jerry = InlineKeyboardButton(text='👨🏻Jerry Smith',callback_data='Jerry Smith')
 beth = InlineKeyboardButton(text='👩🏼Beth Smith',callback_data='Beth Smith')
-squanchy = InlineKeyboardButton(text='🦊Squancy',callback_data='Squanchy')
+squanchy = InlineKeyboardButton(text='🦊Squanchy',callback_data='Squanchy')
 kromb = InlineKeyboardButton(text='🪰Krombopulos Michael',callback_data='Krombopulos Michael')
 giraffe = InlineKeyboardButton(text='🦒Reverse Giraffe', callback_data='Reverse Giraffe')
 birdperson = InlineKeyboardButton(text='🐦Birdperson',callback_data='Birdperson')
